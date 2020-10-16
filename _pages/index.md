@@ -1,9 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
 permalink: /
+title: Welcome to Roa Music Corp
+excerpt: Cool Amp and Audio Stuff
+header:
+  overlay_image: /assets/images/splash.jpg
+  overlay_color   : "#999"
+  actions      :
+  - label      : Read More...
+    url        : /products
 ---
 
-[![Splash](/assets/img/splash.jpg)](/products)
+![Splash](/assets/images/splash.jpg)

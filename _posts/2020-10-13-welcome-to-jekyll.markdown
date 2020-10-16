@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "Welcome to Roa Music Corp!"
 date:   2020-10-13 13:55:18 +0300
 categories: jekyll update

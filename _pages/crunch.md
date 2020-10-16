@@ -1,7 +1,8 @@
 ---
-layout: page
+#layout: splash
 title: "Module: The Crunch"
 permalink: /products/crunch/
+classes: wide
 ---
 
 ![Crunch Mod Img][]
@@ -23,4 +24,4 @@ permalink: /products/crunch/
 
 7. Pricing (?)
 
-[Crunch Mod Img]: /assets/img/crunch.jpeg "Crunch Module Photo"
+[Crunch Mod Img]: /assets/images/crunch.jpeg "Crunch Module Photo"
