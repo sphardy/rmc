@@ -23,3 +23,15 @@
     max-width: 20%;
   }
 }
+
+.roa_img_ctr {
+  display: block;
+  text-align: center;
+  font-size: $type-size-6 !important;
+  color: mix(#fff, $dark-gray, 25%);
+  img {
+    margin: 0.5em auto 0.5em;
+    border-radius: $border-radius;
+    width: 50%;
+  }
+}

@@ -11,3 +11,6 @@ header:
 ---
 
 ![Splash](/assets/images/splash.jpg)
+
+![PSU](/assets/images/psu.png)
+{: .roa_img_ctr style="width: 50%;}
