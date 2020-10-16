@@ -8,16 +8,16 @@ description: |
   Main Unit followed by one image per add-on module
 ---
 
-[![Splash][]](/products)
+[![Splash][]]({{ site.baseurl }}products)
 
 [![Crunch][]][CrunchMod]
 ![Crunch][]
 ![Crunch][]
 ![Crunch][]
 
-[Splash]: /assets/images/splash.jpg
-[Crunch]: /assets/images/crunch.jpeg "Crunch Module Image"
+[Splash]: {{ site.baseurl }}assets/images/splash.jpg
+[Crunch]: {{ site.baseurl }}assets/images/crunch.jpeg "Crunch Module Image"
 {: style="max-width: 24%;"}
 
-[CrunchMod]: /products/crunch/ "Link to Crunch Module Page"
+[CrunchMod]: {{ site.baseurl }}products/crunch/ "Link to Crunch Module Page"
 
