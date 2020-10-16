@@ -10,4 +10,4 @@ header:
     url        : /products
 ---
 
-![Splash]({{ site.baseurl }}assets/images/splash.jpg)
+![Splash](/assets/images/splash.jpg)

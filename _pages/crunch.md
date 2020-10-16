@@ -24,4 +24,4 @@ classes: wide
 
 7. Pricing (?)
 
-[Crunch Mod Img]: {{ site.baseurl }}assets/images/crunch.jpeg "Crunch Module Photo"
+[Crunch Mod Img]: /assets/images/crunch.jpeg "Crunch Module Photo"
