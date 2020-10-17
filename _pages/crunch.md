@@ -4,8 +4,8 @@ title: "Module: The Crunch"
 excerpt: Description Goes Here
 permalink: /products/crunch/
 header:
-  overlay_image: /assets/images/splash.jpg
-  overlay_color: "#999"
+  overlay_image: 
+  overlay_color: "#CACDCF"
   actions      :
   - label      : Back to Products
     url        : /products
