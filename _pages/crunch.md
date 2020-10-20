@@ -10,6 +10,7 @@ header:
   actions      :
   - label      : Back to Products
     url        : /products
+classes: wide
 ---
 
 ![Crunch Mod Img][]
