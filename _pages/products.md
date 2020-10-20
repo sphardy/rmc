@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: products
 title: Products
 author_profile: false
 permalink: /products/
