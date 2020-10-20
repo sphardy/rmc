@@ -3,6 +3,7 @@ layout: splash
 title: "Module: The Crunch"
 excerpt: Description Goes Here
 permalink: /products/crunch/
+comments: true
 header:
   overlay_image: 
   overlay_color: "#CACDCF"
