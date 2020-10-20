@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Module: The Crunch"
 excerpt: Description Goes Here
 permalink: /products/crunch/
